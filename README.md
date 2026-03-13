@@ -1,110 +1,151 @@
-<h1 align="center">Antonio Manuel 👨‍💻</h1>
-<h3 align="center">Estudiante | Futuro ingeniero de IA | Aprendiendo a construir cosas con código e ideas</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/AntManFresc2006">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Every%20Day-00C896?style=for-the-badge" />
-</p>
+# ⚡ Antonio Manuel ⚡
+### `Student // Future AI Engineer // Building intelligence with code`
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Python+%7C+C%2B%2B+%7C+Java;Learning+to+build+powerful+things;Turning+logic+into+real+projects" alt="Typing SVG" />
 
-## 🚀 Sobre mí
+<br>
 
-Soy estudiante y estoy construyendo mi camino hacia el mundo de la **Inteligencia Artificial**.  
-Ahora mismo estoy centrado en aprender programación, reforzar bases sólidas y desarrollar proyectos que me acerquen cada vez más al perfil de **ingeniero en IA**.
+<a href="https://github.com/AntManFresc2006">
+  <img src="https://img.shields.io/badge/GitHub-AntManFresc2006-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mode-Learning%20%26%20Building-111111?style=for-the-badge&logo=tesla&logoColor=8A2BE2" />
+<img src="https://img.shields.io/badge/Style-Dark%20Tech%20Profile-1A1B27?style=for-the-badge" />
 
-Me interesa especialmente:
-
-- 🤖 Inteligencia Artificial
-- 🐍 Python y su ecosistema
-- 🧠 Lógica, resolución de problemas y matemáticas
-- 🛠️ Proyectos prácticos que me hagan mejorar de verdad
-- 📈 Aprender con constancia y evolucionar paso a paso
+</div>
 
 ---
 
-## 🧠 Mi objetivo
+## 🧠 // SYSTEM.INFO
 
-Quiero especializarme en IA y dominar las herramientas necesarias para crear soluciones útiles, inteligentes y potentes.  
-Estoy en fase de aprendizaje, pero con la idea muy clara: **mejorar cada día y convertir conocimiento en proyectos reales**.
+```txt
+Name: Antonio Manuel
+Role: Student
+Mission: Become an AI Engineer
+Status: Learning, building, evolving
+Core weapons: Logic, discipline, curiosity
+```
 
 ---
 
-## 💻 Tecnologías que estoy aprendiendo
+## 🌌 // ABOUT_ME
 
-<p align="center">
+I am a student building my path into the world of **Artificial Intelligence**.  
+Right now, I am focused on developing a strong foundation in programming, logical thinking, and practical projects that move me closer to the level I want to reach.
+
+I am not here just to learn syntax.  
+I am here to learn how to **solve problems**, **build useful systems**, and turn ideas into code with purpose.
+
+### ⚙️ Main interests
+
+- 🤖 Artificial Intelligence
+- 🐍 Python and its ecosystem
+- 🧠 Logic, mathematics, and problem-solving
+- 🛠️ Practical projects that create real experience
+- 📈 Constant growth as a developer
+
+---
+
+## 🎯 // CURRENT_OBJECTIVE
+
+I want to become a strong profile in the world of **AI**, first mastering the fundamentals and then scaling toward more advanced tools, models, and projects.
+
+My goal is not only to “know how to code.”  
+My goal is to be able to **build powerful things for real**.
+
+---
+
+## 💻 // TECH_STACK
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-Learning-111111?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-Improving-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-Background-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Git](https://img.shields.io/badge/Git-Using-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Building-111111?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 // LEARNING_PATH
 
-- Python desde una base sólida
-- C++ para reforzar lógica y programación
-- Fundamentos de Inteligencia Artificial
-- Estructuras de datos y resolución de problemas
-- Buenas prácticas al programar
-
----
-
-## 🌌 Lo que quiero construir
-
-- Proyectos de Python con utilidad real
-- Aplicaciones relacionadas con IA
-- Sistemas que automaticen tareas
-- Modelos y herramientas inteligentes
-- Un perfil técnico cada vez más completo
+- Python from a solid foundation
+- C++ to strengthen logic and programming structure
+- Artificial Intelligence fundamentals
+- Data structures and problem-solving
+- Good development practices
+- Building more serious projects over time
 
 ---
 
-## 📌 Filosofía de aprendizaje
+## 🛠️ // WHAT_I_WANT_TO_BUILD
 
-> Aprender programación no es memorizar comandos.  
-> Es desarrollar una forma de pensar capaz de convertir ideas en sistemas.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntManFresc2006&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Useful applications with Python
+- AI-related projects
+- Intelligent automation systems
+- Tools that combine logic and real usefulness
+- A strong, modern, and increasingly complete technical profile
 
 ---
 
-## 🔥 Racha de contribuciones
+## 📊 // GITHUB_ANALYTICS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧩 Proyectos destacados
-
-Aquí iré mostrando los proyectos con los que vaya creciendo como desarrollador:
-
-- 🔹 Proyecto 1
-- 🔹 Proyecto 2
-- 🔹 Proyecto 3
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntManFresc2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" />
+</div>
 
 ---
 
-## 📫 Contacto
+## 🔥 // STREAK_PROTOCOL
 
-<p align="center">
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF" />
+</div>
+
+---
+
+## 🧩 // FEATURED_PROJECTS
+
+> This section will gradually showcase the projects that define my growth as a developer.
+
+- ⚡ **Project 1** → coming soon
+- ⚡ **Project 2** → coming soon
+- ⚡ **Project 3** → coming soon
+
+---
+
+## 🧬 // MINDSET
+
+```txt
+Learning code is not about collecting commands.
+It is about building a mind capable of creating systems.
+```
+
+---
+
+## 🌐 // CONNECT
+
+<div align="center">
   <a href="https://github.com/AntManFresc2006">
-    <img src="https://img.shields.io/badge/GitHub-TU__USUARIO-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Profile-Visit-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Construyendo hoy las bases de lo que mañana quiero dominar.</i>
-</p>
+<div align="center">
+
+### `Building the foundations now for the systems I want to master tomorrow.`
+
+</div>
