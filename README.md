@@ -33,7 +33,7 @@
 
 ---
 
-SYSTEM.INFO
+## SYSTEM.INFO
 
 ```yaml
 name: Antonio Manuel
@@ -50,7 +50,7 @@ core_weapons:
 
 ---
 
-ABOUT ME
+## ABOUT ME
 
 I am a student building my path into the world of **Artificial Intelligence**.
 
@@ -66,7 +66,7 @@ Right now, I am focused on creating a strong base in programming, logical thinki
 
 ---
 
-CURRENT OBJECTIVE
+## CURRENT OBJECTIVE
 
 My goal is to become a strong AI-focused developer by mastering the fundamentals first and then scaling into more advanced tools, models, and real-world projects.
 
@@ -74,7 +74,7 @@ I am building the base now so future projects can hit harder.
 
 ---
 
-TECH STACK
+## TECH STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,html,css" alt="skills" />
@@ -94,7 +94,7 @@ TECH STACK
 
 ---
 
-LEARNING PATH
+## LEARNING PATH
 
 - Python from a solid foundation
 - C++ to sharpen logic and structure
@@ -105,7 +105,7 @@ LEARNING PATH
 
 ---
 
-WHAT I WANT TO BUILD
+## WHAT I WANT TO BUILD
 
 - Useful Python applications
 - AI-related projects
@@ -115,7 +115,7 @@ WHAT I WANT TO BUILD
 
 ---
 
-GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" alt="stats" />
@@ -124,7 +124,7 @@ GITHUB ANALYTICS
 
 ---
 
-STREAK PROTOCOL
+## STREAK PROTOCOL
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=FFFFFF" alt="streak" />
@@ -132,7 +132,7 @@ STREAK PROTOCOL
 
 ---
 
-FEATURED PROJECTS
+## FEATURED PROJECTS
 
 > This zone will showcase the projects that define my evolution as a developer.
 
@@ -142,7 +142,7 @@ FEATURED PROJECTS
 
 ---
 
-MINDSET
+## MINDSET
 
 ```txt
 Learning code is not about collecting commands.
@@ -151,7 +151,7 @@ It is about building a mind capable of creating systems.
 
 ---
 
-CONNECT
+## CONNECT
 
 <div align="center">
   <a href="https://github.com/AntManFresc2006">
@@ -168,7 +168,7 @@ CONNECT
 
 ---
 
-OPTIONAL PORTAL
+## OPTIONAL PORTAL
 
 <div align="center">
   <a href="https://AntManFresc2006.github.io/">
