@@ -168,7 +168,7 @@ It is about building a mind capable of creating systems.
 
 ---
 
-## OPTIONAL PORTAL
+## MY PORTAL
 
 <div align="center">
   <a href="https://AntManFresc2006.github.io/">
