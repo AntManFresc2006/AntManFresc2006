@@ -134,11 +134,17 @@ It is about building a mind capable of creating systems.
 
 ---
 
-## // CONNECT
+## 🌐 // CONNECT
 
 <div align="center">
   <a href="https://github.com/AntManFresc2006">
-    <img src="https://img.shields.io/badge/Profile-Visit-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-6A0DAD?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-manuel-fresco-gomez-454601325">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:antoniomanuelfrescogomez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
