@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,35:2a0f4f,70:6A0DAD,100:8A2BE2&text=Antonio%20Manuel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Future%20AI%20Engineer%20%7C%20Dark%20Tech%20Builder&descAlignY=58" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,35:2a0f4f,70:6A0DAD,100:8A2BE2&text=Antonio%20Manuel%20%Fresco20Gómez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Future%20AI%20Engineer%20%7C%20Dark%20Tech%20Builder&descAlignY=58" alt="header"/>
 
 # ⚡ `ANTONIO MANUEL FRESCO GÓMEZ` ⚡
 ### **Student • Future AI Engineer • Building intelligence with code**
