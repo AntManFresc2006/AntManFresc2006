@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,35:2a0f4f,70:6A0DAD,100:8A2BE2&text=Antonio%20Manuel%20Fresco%20Gomez&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Future%20AI%20Engineer%20%7C%20Dark%20Tech%20Builder&descAlignY=58" alt="header"/>
 
-# ⚡ `ANTONIO MANUEL FRESCO GÓMEZ` ⚡
+#  `ANTONIO MANUEL FRESCO GÓMEZ`
 ### **Student • Future AI Engineer • Building intelligence with code**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=9D4EDD&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+Student;Python+%7C+C%2B%2B+%7C+Java;Dark+Tech+%2B+Logic+%2B+Projects;Turning+curiosity+into+systems" alt="Typing SVG" />
@@ -56,13 +56,13 @@ I am a student building my path into the world of **Artificial Intelligence**.
 
 Right now, I am focused on creating a strong base in programming, logical thinking, and practical projects that push me closer to the level I want to reach. I do not want to just learn syntax and stack random commands like collectible cards. I want to understand how systems work, how problems break apart, and how code becomes something useful.
 
-### ⚙️ Main interests
+### Main interests
 
-- 🤖 Artificial Intelligence
-- 🐍 Python and its ecosystem
-- 🧠 Logic, mathematics, and problem-solving
-- 🛠️ Practical projects with real value
-- 📈 Constant growth as a developer
+-  Artificial Intelligence
+-  Python and its ecosystem
+-  Logic, mathematics, and problem-solving
+-  Practical projects with real value
+-  Constant growth as a developer
 
 ---
 
@@ -136,9 +136,9 @@ I am building the base now so future projects can hit harder.
 
 > This zone will showcase the projects that define my evolution as a developer.
 
-- ⚡ **Project 1** → coming soon
-- ⚡ **Project 2** → coming soon
-- ⚡ **Project 3** → coming soon
+-  **Project 1** → coming soon
+-  **Project 2** → coming soon
+-  **Project 3** → coming soon
 
 ---
 
