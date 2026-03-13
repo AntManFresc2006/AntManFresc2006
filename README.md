@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 // SYSTEM.INFO
+## // SYSTEM.INFO
 
 ```txt
 Name: Antonio Manuel
@@ -30,7 +30,7 @@ Core weapons: Logic, discipline, curiosity
 
 ---
 
-## 🌌 // ABOUT_ME
+## // ABOUT_ME
 
 I am a student building my path into the world of **Artificial Intelligence**.  
 Right now, I am focused on developing a strong foundation in programming, logical thinking, and practical projects that move me closer to the level I want to reach.
@@ -38,7 +38,7 @@ Right now, I am focused on developing a strong foundation in programming, logica
 I am not here just to learn syntax.  
 I am here to learn how to **solve problems**, **build useful systems**, and turn ideas into code with purpose.
 
-### ⚙️ Main interests
+### Main interests
 
 - 🤖 Artificial Intelligence
 - 🐍 Python and its ecosystem
@@ -48,7 +48,7 @@ I am here to learn how to **solve problems**, **build useful systems**, and turn
 
 ---
 
-## 🎯 // CURRENT_OBJECTIVE
+## // CURRENT_OBJECTIVE
 
 I want to become a strong profile in the world of **AI**, first mastering the fundamentals and then scaling toward more advanced tools, models, and projects.
 
@@ -57,7 +57,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 💻 // TECH_STACK
+## // TECH_STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
@@ -77,7 +77,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 📚 // LEARNING_PATH
+## // LEARNING_PATH
 
 - Python from a solid foundation
 - C++ to strengthen logic and programming structure
@@ -98,7 +98,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 📊 // GITHUB_ANALYTICS
+## // GITHUB_ANALYTICS
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" />
@@ -107,7 +107,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 🔥 // STREAK_PROTOCOL
+## // STREAK_PROTOCOL
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF" />
@@ -115,7 +115,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 🧩 // FEATURED_PROJECTS
+## // FEATURED_PROJECTS
 
 > This section will gradually showcase the projects that define my growth as a developer.
 
@@ -125,7 +125,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## 🧬 // MINDSET
+## // MINDSET
 
 ```txt
 Learning code is not about collecting commands.
@@ -134,7 +134,7 @@ It is about building a mind capable of creating systems.
 
 ---
 
-## 🌐 // CONNECT
+## // CONNECT
 
 <div align="center">
   <a href="https://github.com/AntManFresc2006">
