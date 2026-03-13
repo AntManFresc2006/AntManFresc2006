@@ -1,66 +1,83 @@
 <div align="center">
 
-# ⚡ Antonio Manuel ⚡
-### `Student // Future AI Engineer // Building intelligence with code`
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,35:2a0f4f,70:6A0DAD,100:8A2BE2&text=Antonio%20Manuel&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Future%20AI%20Engineer%20%7C%20Dark%20Tech%20Builder&descAlignY=58" alt="header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Python+%7C+C%2B%2B+%7C+Java;Learning+to+build+powerful+things;Turning+logic+into+real+projects" alt="Typing SVG" />
+# ⚡ `ANTONIO MANUEL` ⚡
+### **Student • Future AI Engineer • Building intelligence with code**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2800&pause=900&color=9D4EDD&center=true&vCenter=true&width=950&lines=Artificial+Intelligence+Student;Python+%7C+C%2B%2B+%7C+Java;Dark+Tech+%2B+Logic+%2B+Projects;Turning+curiosity+into+systems" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/AntManFresc2006">
-  <img src="https://img.shields.io/badge/GitHub-AntManFresc2006-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-AntManFresc2006-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-6A0DAD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mode-Learning%20%26%20Building-111111?style=for-the-badge&logo=tesla&logoColor=8A2BE2" />
-<img src="https://img.shields.io/badge/Style-Dark%20Tech%20Profile-1A1B27?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.infojobs.net/candidate/cv/view/index.xhtml">
+  <img src="https://img.shields.io/badge/InfoJobs-Profile-0D3878?style=for-the-badge" alt="InfoJobs" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FOCUS-Artificial%20Intelligence-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MODE-Learning%20%26%20Building-111111?style=for-the-badge&logo=tesla&logoColor=9D4EDD" />
+<img src="https://img.shields.io/badge/STYLE-Dark%20Gamer%20Tech-1A1B27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STATUS-Evolving-2B0A3D?style=for-the-badge" />
 
 </div>
 
 ---
 
-## // SYSTEM.INFO
+## 🧠 // SYSTEM.INFO
 
-```txt
-Name: Antonio Manuel
-Role: Student
-Mission: Become an AI Engineer
-Status: Learning, building, evolving
-Core weapons: Logic, discipline, curiosity
+```yaml
+name: Antonio Manuel
+role: Student
+mission: Become an AI Engineer
+status: Learning, building, evolving
+mindset: Logic first, excuses later
+core_weapons:
+  - Curiosity
+  - Discipline
+  - Problem-solving
+  - Consistency
 ```
 
 ---
 
-## // ABOUT_ME
+## 🌌 // ABOUT_ME
 
-I am a student building my path into the world of **Artificial Intelligence**.  
-Right now, I am focused on developing a strong foundation in programming, logical thinking, and practical projects that move me closer to the level I want to reach.
+I am a student building my path into the world of **Artificial Intelligence**.
 
-I am not here just to learn syntax.  
-I am here to learn how to **solve problems**, **build useful systems**, and turn ideas into code with purpose.
+Right now, I am focused on creating a strong base in programming, logical thinking, and practical projects that push me closer to the level I want to reach. I do not want to just learn syntax and stack random commands like collectible cards. I want to understand how systems work, how problems break apart, and how code becomes something useful.
 
-### Main interests
+### ⚙️ Main interests
 
 - 🤖 Artificial Intelligence
 - 🐍 Python and its ecosystem
 - 🧠 Logic, mathematics, and problem-solving
-- 🛠️ Practical projects that create real experience
+- 🛠️ Practical projects with real value
 - 📈 Constant growth as a developer
 
 ---
 
-## // CURRENT_OBJECTIVE
+## 🎯 // CURRENT OBJECTIVE
 
-I want to become a strong profile in the world of **AI**, first mastering the fundamentals and then scaling toward more advanced tools, models, and projects.
+My goal is to become a strong AI-focused developer by mastering the fundamentals first and then scaling into more advanced tools, models, and real-world projects.
 
-My goal is not only to “know how to code.”  
-My goal is to be able to **build powerful things for real**.
+I am building the base now so future projects can hit harder.
 
 ---
 
-## // TECH_STACK
+## 💻 // TECH STACK
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,vscode,html,css" alt="skills" />
 </div>
 
 <br>
@@ -77,47 +94,47 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## // LEARNING_PATH
+## 📚 // LEARNING PATH
 
 - Python from a solid foundation
-- C++ to strengthen logic and programming structure
+- C++ to sharpen logic and structure
 - Artificial Intelligence fundamentals
 - Data structures and problem-solving
-- Good development practices
-- Building more serious projects over time
+- Better coding habits and project organization
+- More ambitious projects over time
 
 ---
 
-## 🛠️ // WHAT_I_WANT_TO_BUILD
+## 🛠️ // WHAT I WANT TO BUILD
 
-- Useful applications with Python
+- Useful Python applications
 - AI-related projects
-- Intelligent automation systems
-- Tools that combine logic and real usefulness
-- A strong, modern, and increasingly complete technical profile
+- Intelligent automations
+- Tools that combine logic and real utility
+- A modern technical profile with substance behind the style
 
 ---
 
-## // GITHUB_ANALYTICS
+## 📊 // GITHUB ANALYTICS
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=FFFFFF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntManFresc2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntManFresc2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntManFresc2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" alt="langs" />
 </div>
 
 ---
 
-## // STREAK_PROTOCOL
+## 🔥 // STREAK PROTOCOL
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF" />
+  <img src="https://streak-stats.demolab.com?user=AntManFresc2006&theme=tokyonight&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=FFFFFF" alt="streak" />
 </div>
 
 ---
 
-## // FEATURED_PROJECTS
+## 🧩 // FEATURED PROJECTS
 
-> This section will gradually showcase the projects that define my growth as a developer.
+> This zone will showcase the projects that define my evolution as a developer.
 
 - ⚡ **Project 1** → coming soon
 - ⚡ **Project 2** → coming soon
@@ -125,7 +142,7 @@ My goal is to be able to **build powerful things for real**.
 
 ---
 
-## // MINDSET
+## 🧬 // MINDSET
 
 ```txt
 Learning code is not about collecting commands.
@@ -143,8 +160,19 @@ It is about building a mind capable of creating systems.
   <a href="https://www.linkedin.com/in/antonio-manuel-fresco-gomez-454601325">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:antoniomanuelfrescogomez@gmail.com">
+  </a>
+  <a href="mailto:antoniomanuelfresco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🛰️ // OPTIONAL PORTAL
+
+<div align="center">
+  <a href="https://AntManFresc2006.github.io/">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-Launch%20Portal-111111?style=for-the-badge&logo=githubpages&logoColor=9D4EDD" alt="pages" />
   </a>
 </div>
 
